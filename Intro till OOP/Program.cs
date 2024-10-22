@@ -1,4 +1,5 @@
-﻿namespace Intro_till_OOP
+//Gustav Eriksson Söderlund, SUT24
+namespace Intro_till_OOP
 {
     internal class Program
     {
